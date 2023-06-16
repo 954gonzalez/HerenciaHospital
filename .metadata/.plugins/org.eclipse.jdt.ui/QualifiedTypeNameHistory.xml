@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="clases.Paciente"/>
+    <fullyQualifiedTypeName name="clases.ModeloDatos"/>
+    <fullyQualifiedTypeName name="clases.empleado.EmpleadoEventual"/>
+    <fullyQualifiedTypeName name="clases.empleado.Medico"/>
+    <fullyQualifiedTypeName name="clases.empleado.EmpleadoPlanilla"/>
+</qualifiedTypeNameHistroy>
